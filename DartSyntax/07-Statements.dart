@@ -15,9 +15,10 @@ void main(List<String> args) {
   bool c = false;
   int? d = null;
 
-  // 1.
+  // 1. (condition) ? (true) : (false)
   (a == 4) ? print(b) : print(a);
-  // 2.
+
+  // 2. if "d" not null, returns it; else return b
   print(d ?? b);
 
   // "switch case" statement
