@@ -5,10 +5,11 @@
 // Mixin
 
 void main(List<String> args) {
-  Duck bird = Duck()
+  Duck()
     ..about()
     ..fly()
-    ..swim();
+    ..swim()
+    ..status();
 }
 
 // Multi-level Inheritance
