@@ -14,6 +14,7 @@ class Person {
 
   // Change string message when printing an instance of object
   // toString() is default method for classes that we change it.
+  // @override can't be affect on method (only to declare)
   @override
   String toString() {
     return "This is my custom settings ${this.name}";

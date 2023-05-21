@@ -4,7 +4,7 @@
 they are part of 
 */
 // When the file is '14-Libraries-02.dart' import, this file be import too
-part of '14-Libraries-01.dart';
+part of '28-Libraries-01.dart';
 
 class MyClass15 {
   static String file = 'This is from: 15-Libraries';

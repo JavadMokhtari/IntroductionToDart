@@ -34,8 +34,8 @@ separately and then import that file
 */
 
 export '01-HelloWorld.dart';
-export '13-Packages.dart';
-export '14-Libraries-01.dart';
+export '27-Packages.dart';
+export '28-Libraries-01.dart';
 export 'dart:math';
 export 'dart:async';
 export 'dart:collection';

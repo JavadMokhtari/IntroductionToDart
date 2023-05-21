@@ -15,6 +15,10 @@ void main(List<String> args) {
     ..method1()
     ..method2();
 
+  // Using without cascade operator
+  person.method1();
+  person.method2();
+
   // Using cascade operaotr without instantiation
   Person()
     ..method1()
